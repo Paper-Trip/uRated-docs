@@ -1,3 +1,5 @@
+This serves as a starting point to this module
+
 **Purpose:** This repo will handle the user-facing interface, including the dashboards for tracking artists, displaying growth trends, and filtering artists.
 
 - **Tech Stack:** React (with TypeScript), Next.js (for SSR), CSS/SCSS, TailwindCSS or Material UI for design.

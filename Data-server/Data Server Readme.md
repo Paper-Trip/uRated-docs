@@ -1,3 +1,8 @@
+This serves as a starting point to this module
+
+#### This module Covers
+1. [[Architecture]]
+
 **Purpose:** A dedicated service to collect data from various social media and streaming platforms.
 
 - **Tech Stack:** Python (for scraping APIs), Node.js, or serverless functions (AWS Lambda, Azure Functions).
