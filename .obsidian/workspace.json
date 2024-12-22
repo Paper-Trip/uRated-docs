@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee6218d437cc68a",
+        "id": "03122c4dbeb84a18",
         "type": "tabs",
         "children": [
           {
-            "id": "8c15d8aeae9552fc",
+            "id": "76f1d6d96b2afa23",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "README.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           }
         ]
@@ -154,9 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c15d8aeae9552fc",
+  "active": "76f1d6d96b2afa23",
   "lastOpenFiles": [
-    "uRated README.md",
+    "Server/Building the Backend.md",
+    "README.md",
     "Auth-server/Auth-server Readme.md",
     "Client/Client Readme.md",
     "Concepts/Concepts Readme.md",
@@ -168,7 +177,6 @@
     "Concepts/RBAC.md",
     "Data-server/Architecture.md",
     "Client.md",
-    "Server/Building the Backend.md",
     "Concepts",
     "Auth-server",
     "Data-server",
