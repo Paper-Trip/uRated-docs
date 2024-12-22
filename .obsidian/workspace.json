@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "b4d9a1fc4f49c342",
+    "type": "split",
+    "children": [
+      {
+        "id": "c672bb5f9a39b607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5aeefa69082a8438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/Building the Backend.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building the Backend"
+            }
+          },
+          {
+            "id": "fdd91f14386a286f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/Tech Stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tech Stack"
+            }
+          },
+          {
+            "id": "016134484fcb76cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data-server/Data Server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Server"
+            }
+          },
+          {
+            "id": "a6d6bf723943a446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data-server/Data Server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Server"
+            }
+          },
+          {
+            "id": "0fbe9891ba2c6bc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auth-server/Auth-server.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auth-server"
+            }
+          },
+          {
+            "id": "a54cec959aaf3bac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/RBAC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RBAC"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c667f711befa241",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e745f8f5d78a85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4759106d103bbe6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a53b5857c1996ae2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3631d3f60dfa115",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23ebecd953fc5743",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8f15cc16929fd06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b96a274ac71660cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/RBAC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for RBAC"
+            }
+          },
+          {
+            "id": "ccecdfcf9e2f4253",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concepts/RBAC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from RBAC"
+            }
+          },
+          {
+            "id": "c7671fb5403cb897",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1d76b3dd9d026244",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concepts/RBAC.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of RBAC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a54cec959aaf3bac",
+  "lastOpenFiles": [
+    "Client/Client.md",
+    "Auth-server/Auth-server.md",
+    "Concepts/RBAC.md",
+    "Concepts",
+    "Data-server/Data Server.md",
+    "Auth-server",
+    "Server/Tech Stack.md",
+    "Data-server",
+    "Client",
+    "Server/Building the Backend.md",
+    "README.md",
+    "Server"
+  ]
+}
