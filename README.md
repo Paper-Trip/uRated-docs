@@ -3,6 +3,8 @@ Your Go-To Solution for the Next Michael Jackson
 
 **Paper Trip's uRated Docs**: https://github.com/Paper-Trip/uRated-docs
 
+#### Notice
+Each non employee contributor is recommended to mail us a signed copy of [[Terms & Conditions]] to claim own rights.
 #### Overview:
 1. [[Concepts Readme]]
 2. [[Market Research]]
